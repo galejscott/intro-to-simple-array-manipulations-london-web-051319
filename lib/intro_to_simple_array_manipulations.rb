@@ -43,5 +43,5 @@ def using_delete(array, element)
 end
 
 def using_delete_at(array, element)
-  array.delete_at(0)
+  array.delete_at(2)
 end
